@@ -22,12 +22,12 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoder2706&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=crazycoder2706&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=lampnthe173556&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=crazycoder2706&theme=algolia&background=0d1117&hide_border=true" />
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=crazycoder2706&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=crazycoder2706&theme=react-dark"/> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lampnthe173556&theme=algolia&background=0d1117&hide_border=true" />
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
